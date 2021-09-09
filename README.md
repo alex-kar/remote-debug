@@ -10,3 +10,7 @@ Run a container
 ```
 docker run --rm -p 8080:8080 -p 5005:5005 remote-debug
 ```
+Run with docker compose
+```
+docker-compose up 
+```
